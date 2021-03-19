@@ -7,4 +7,5 @@ function myNestedFunction(arr) {
 }
 
 console.log(myNestedFunction([["Toblerone", 5], ["Milka", 3]]));
+module.exports = myNestedFunction;
 
